@@ -1,7 +1,6 @@
 import asanas
-from soundstools import  saveText
 
-# asanas.sunSalutationA(5)
+asanas.sunSalutationA(5)
 # asanas.sunSalutationB(5)
 # asanas.padangusthasana(1)
 # asanas.padanhastaasana(1)
