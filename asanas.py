@@ -118,7 +118,6 @@ class Practice(Asana):
 
     def execute(self):
 
-        self.say_practice_time()
         print("Execute ", self.Name)
         time.clock()
         self.run_viniasa(self.pre_viniasaNum, self.breath_order)
