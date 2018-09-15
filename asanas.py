@@ -148,6 +148,8 @@ def general_asana_count(numOfAsanas):
         playSound("Inhale")
         count_duration(7)
         playSound("Exhale")
+        count_duration(3)
+
         #print (time.clock(), "seconds process time")
 
 
